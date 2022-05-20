@@ -81,7 +81,7 @@ button {
 
 .container {
   width: 100%;
-  margin: 3.125rem auto 0 auto;
+  margin: 3.125rem auto 0;
 }
 
 @media (min-width: 576px) {
@@ -132,7 +132,7 @@ form {
 }
 
 .form-group {
-  margin: 0 auto 1.25rem auto;
+  margin: 0 auto 1.25rem;
   padding: 0.25rem;
 }
 
